@@ -14,13 +14,12 @@ ys1enumq74mkcv22werl905h56qcmmqum9dztu2gwsr73tv75g20s5xdful800hd2n4gh9vuee9yvm
 <p>After you enter this information, you get a file called
 
 ```
-mine_ycash.sh
+mine_yec.sh
 ```
 
-Currently supports Gminer<br>
+Currently supports Gminer and miniZ<br>
 TODO:<br>
   <ul>
-    <li>add: mini_z</li>
     <li>add: lolminer</li>
     <li>add: windows support</li>
   </ul>
